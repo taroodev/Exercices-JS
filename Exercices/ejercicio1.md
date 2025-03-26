@@ -8,4 +8,4 @@ Kebab case:    hola-mundo
 Define los siguientes tipos de variables, di cuál utilizarías y por qué.
 Var:  ambito  global 
 Let:  ambito ed bloque
-Const:  ambito de bloque y no cambia el valor        
+Const:  ambito de bloque y no cambia el valor     
